@@ -1,0 +1,33 @@
+# S6: re-train the full-size (512-ch) DINOv3s building base on the tidied
+# dataset — the shipped checkpoint's own HPO-tuned recipe, only the data
+# differs. Set dataset_repo to the output of build_tidied_dataset.py.
+# data_root must be a FRESH dir: the real (hot_global) norm stats are pulled
+# from the dataset repo into it, and data/hot_building holds the CNN's unit
+# stats which must not be reused here.
+backbone: terratorch_dinov3_vits16
+hf_ckpt_file: dinov3_vits16_pretrain_lvd1689m-08c60483.pth
+seg_out_indices: [2, 5, 8, 11]
+aux_in_index: 2
+decoder_channels: 512
+img_size: 256
+
+dataset_repo: nilsho01/vhr-building-segmentation-tidied
+data_root: /home/niho/fair-models/data/hot_building_tidy
+output_dir: /home/niho/fair-models/outputs
+run_name: dinov3s512_tidy_v1
+
+batch_size: 32
+eval_batch_size: 32
+num_workers: 8
+precision: 16-mixed
+
+lr: 0.002377120674243949
+weight_decay: 0.0069782812651260325
+boundary_loss_weight: 0.2681357538986471
+distance_loss_weight: 0.47236743859637587
+aux_loss_weight: 0.21809091556421523
+tv_loss_weight: 0.04879954961448965
+
+max_epochs: 50
+early_stop_patience: 5
+grad_clip: 1.0
