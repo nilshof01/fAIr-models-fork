@@ -31,6 +31,8 @@ OUT_JSON = ROOT / "data" / "base_eval_dataset_val.json"
 CKPTS = {
     "tree_crown_shipped": ROOT / "data" / "base_ckpts" / "unet_base.ckpt",
     "building_phase2": ROOT / "data" / "base_ckpts" / "unet_bldg_base.pth",
+    "building_v0_1500_curated": ROOT / "data" / "base_ckpts" / "unet_bldg_v0_1500.pth",
+    "building_rand1445_control": ROOT / "data" / "base_ckpts" / "unet_bldg_rand1445.pth",
 }
 GRID = np.linspace(0.1, 0.9, 17)
 BATCH = 64

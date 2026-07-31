@@ -34,6 +34,8 @@ _p.add_argument("--dataset-repo", default="hotosm/vhr-building-segmentation")
 _p.add_argument("--data-root", default=str(ROOT / "data" / "hot_building"),
                 help="Use a fresh dir per dataset repo (norm stats are cached here)")
 _p.add_argument("--out", default=str(ROOT / "data" / "base_ckpts" / "unet_bldg_base.pth"))
+_p.add_argument("--data-pct", type=float, default=100.0,
+                help="Percent of train rows (shuffled, seed 1337) - for size-matched controls")
 _args = _p.parse_args()
 DATASET_REPO = _args.dataset_repo
 DATA_ROOT = Path(_args.data_root)
@@ -61,7 +63,7 @@ def main():
     dm = HotBuildingDataModule(
         repo_id=DATASET_REPO, root=DATA_ROOT,
         img_size=256, boundary_width=2, distance_clip=15.0,
-        drop_null_images=True, data_pct=100.0,
+        drop_null_images=True, data_pct=_args.data_pct,
         batch_size=BATCH, eval_batch_size=BATCH,
         num_workers=8, pin_memory=True, persistent_workers=True, seed=1337)
     dm.setup()
