@@ -74,6 +74,8 @@ def main():
     p.add_argument("--push-to", default=None,
                    help="HF dataset repo id, e.g. nilsho01/vhr-building-segmentation-tidied")
     p.add_argument("--keep-leaked", action="store_true")
+    p.add_argument("--public", action="store_true",
+                   help="Push as PUBLIC (default: private).")
     args = p.parse_args()
     if not (args.save_dir or args.push_to):
         p.error("need --save-dir and/or --push-to")
@@ -96,7 +98,7 @@ def main():
         shutil.copy(stats_path, Path(args.save_dir) / "norm_stats.json")
         print(f"saved: {args.save_dir}")
     if args.push_to:
-        out.push_to_hub(args.push_to, private=True)
+        out.push_to_hub(args.push_to, private=not args.public)
         HfApi().upload_file(path_or_fileobj=stats_path, path_in_repo="norm_stats.json",
                             repo_id=args.push_to, repo_type="dataset")
         print(f"pushed: https://huggingface.co/datasets/{args.push_to}")
