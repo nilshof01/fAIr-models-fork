@@ -1,0 +1,401 @@
+tile_id,dataset_row,band,region,country,project_name,num_buildings,block
+OAM-402048-229324-19,12192.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,92,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100512_57331
+OAM-401880-229411-19,29848.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,50,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100470_57352
+OAM-402133-229319-19,25310.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,67,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100533_57329
+OAM-402022-229429-19,46745.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,50,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100505_57357
+OAM-402060-229356-19,13439.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,55,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100515_57339
+OAM-402048-229351-19,12219.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,69,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100512_57337
+OAM-402062-229366-19,13672.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,71,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100515_57341
+OAM-402029-229420-19,47535.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,70,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100507_57355
+OAM-402077-229349-19,15893.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,54,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100519_57337
+OAM-402134-229313-19,25461.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,81,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100533_57328
+OAM-402033-229416-19,47961.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,68,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100508_57354
+OAM-401941-229463-19,38787.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,51,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100485_57365
+OAM-402046-229354-19,12026.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,52,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100511_57338
+OAM-402021-229435-19,46629.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,71,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100505_57358
+OAM-402154-229386-19,27566.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,52,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100538_57346
+OAM-402060-229368-19,13451.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,112,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100515_57342
+OAM-402074-229376-19,15440.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,86,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100518_57344
+OAM-402048-229355-19,12223.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,111,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100512_57338
+OAM-402152-229427-19,27484.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,50,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100538_57356
+OAM-402041-229348-19,11527.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,75,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100510_57337
+OAM-402045-229323-19,11896.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,52,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100511_57330
+OAM-402076-229426-19,15809.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,50,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100519_57356
+OAM-402058-229356-19,13226.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,69,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100514_57339
+OAM-402054-229308-19,12767.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,71,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100513_57327
+OAM-402068-229368-19,14506.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,83,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100517_57342
+OAM-402036-229376-19,11082.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,97,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100509_57344
+OAM-402130-229408-19,24923.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,96,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100532_57352
+OAM-402031-229418-19,47749.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,93,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100507_57354
+OAM-402097-229387-19,19265.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,88,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100524_57346
+OAM-402036-229357-19,11063.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,51,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100509_57339
+OAM-402018-229447-19,46261.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,50,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100504_57361
+OAM-402127-229416-19,24454.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,73,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100531_57354
+OAM-402063-229399-19,13819.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,71,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100515_57349
+OAM-242852-249740-19,54961.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,77,FreeTown Drone Imagery Mapping|60713_62435
+OAM-311473-282229-19,531.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,55,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77868_70557
+OAM-261778-254085-19,5629.0,50-149,Africa,Ghana,"Chorkor slum mapping project - Accra, Ghana",102,"Chorkor slum mapping project - Accra, Ghana|65444_63521"
+OAM-242856-249749-19,55095.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,70,FreeTown Drone Imagery Mapping|60714_62437
+OAM-242870-249761-19,55415.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,50,FreeTown Drone Imagery Mapping|60717_62440
+OAM-311477-282219-19,755.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2,94,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2|77869_70554
+OAM-311466-282238-19,382.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,53,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77866_70559
+OAM-242858-249753-19,55149.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,98,FreeTown Drone Imagery Mapping|60714_62438
+OAM-261781-254084-19,5636.0,50-149,Africa,Ghana,"Chorkor slum mapping project - Accra, Ghana",92,"Chorkor slum mapping project - Accra, Ghana|65445_63521"
+OAM-242878-249759-19,55610.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,63,FreeTown Drone Imagery Mapping|60719_62439
+OAM-242877-249773-19,55600.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,55,FreeTown Drone Imagery Mapping|60719_62443
+OAM-311471-282215-19,715.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2,52,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2|77867_70553
+OAM-242846-249744-19,54748.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,76,FreeTown Drone Imagery Mapping|60711_62436
+OAM-242877-249760-19,55587.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,67,FreeTown Drone Imagery Mapping|60719_62440
+OAM-311476-282222-19,,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,79,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77869_70555
+OAM-261826-254046-19,5777.0,50-149,Africa,Ghana,"Agbogloshie slum mapping project - Accra, Ghana",107,"Agbogloshie slum mapping project - Accra, Ghana|65456_63511"
+OAM-311475-282225-19,563.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,55,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77868_70556
+OAM-311468-282238-19,428.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,77,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77867_70559
+OAM-242854-249758-19,55045.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,128,FreeTown Drone Imagery Mapping|60713_62439
+OAM-311470-282235-19,471.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,71,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77867_70558
+OAM-261817-254052-19,5677.0,50-149,Africa,Ghana,"Old Fadama slum mapping project - Accra, Ghana",63,"Old Fadama slum mapping project - Accra, Ghana|65454_63513"
+OAM-242859-249742-19,55160.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,114,FreeTown Drone Imagery Mapping|60714_62435
+OAM-242860-249739-19,55180.0,50-149,Africa,Sierra Leone,"KROO BAY SLUM MAPPING PROJECT - FREETOWN, SIERRA LEONE",71,"KROO BAY SLUM MAPPING PROJECT - FREETOWN, SIERRA LEONE|60715_62434"
+OAM-311477-282230-19,596.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,73,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77869_70557
+OAM-242879-249764-19,55638.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,53,FreeTown Drone Imagery Mapping|60719_62441
+OAM-311473-282233-19,535.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,91,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77868_70558
+OAM-242870-249752-19,55406.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,59,FreeTown Drone Imagery Mapping|60717_62438
+OAM-311474-282236-19,557.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,63,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77868_70559
+OAM-261824-254041-19,5757.0,50-149,Africa,Ghana,"Agbogloshie slum mapping project - Accra, Ghana",50,"Agbogloshie slum mapping project - Accra, Ghana|65456_63510"
+OAM-311473-282214-19,,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2,58,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2|77868_70553
+OAM-311476-282232-19,,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,101,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77869_70558
+OAM-310065-265832-19,5356.0,50-149,Africa,Tanzania,"Mulungushi slum mapping project - Mwanza, Tanzania",53,"Mulungushi slum mapping project - Mwanza, Tanzania|77516_66458"
+OAM-242875-249771-19,55551.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,50,FreeTown Drone Imagery Mapping|60718_62442
+OAM-311466-282240-19,384.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,71,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77866_70560
+OAM-402009-229454-19,45164.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,73,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100502_57363
+OAM-242873-249756-19,55489.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,89,FreeTown Drone Imagery Mapping|60718_62439
+OAM-402098-229428-19,19479.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,52,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100524_57357
+OAM-402129-229416-19,24772.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,51,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100532_57354
+OAM-242858-249746-19,55142.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,88,FreeTown Drone Imagery Mapping|60714_62436
+OAM-242854-249746-19,55033.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,77,FreeTown Drone Imagery Mapping|60713_62436
+OAM-402050-229330-19,12393.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,51,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100512_57332
+OAM-242863-249745-19,55252.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,81,FreeTown Drone Imagery Mapping|60715_62436
+OAM-402131-229459-19,25133.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,53,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100532_57364
+OAM-242873-249754-19,55487.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,64,FreeTown Drone Imagery Mapping|60718_62438
+OAM-402010-229451-19,45278.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,50,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100502_57362
+OAM-402058-229355-19,13225.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,73,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100514_57338
+OAM-311474-282223-19,544.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,76,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77868_70555
+OAM-402123-229417-19,23819.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,51,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100530_57354
+OAM-242864-249747-19,55277.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,92,FreeTown Drone Imagery Mapping|60716_62436
+OAM-242846-249743-19,54747.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,72,FreeTown Drone Imagery Mapping|60711_62435
+OAM-242899-249755-19,54545.0,50-149,Africa,Sierra Leone,"COCONUT FARM INFORMAL SETTLEMENT MAPPING PROJECT - FREETOWN, SIERRA LEONE",51,"COCONUT FARM INFORMAL SETTLEMENT MAPPING PROJECT - FREETOWN, SIERRA LEONE|60724_62438"
+OAM-402083-229435-19,16963.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,50,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100520_57358
+OAM-260613-248008-19,608.0,50-149,Africa,Ghana,"Mapping to Create Flood Resilient Communities- Nawuni, Ghana",64,"Mapping to Create Flood Resilient Communities- Nawuni, Ghana|65153_62002"
+OAM-320779-265780-19,4154.0,50-149,Africa,Kenya,"Handaraku village, Tana River",50,"Handaraku village, Tana River|80194_66445"
+OAM-242874-249761-19,55517.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,53,FreeTown Drone Imagery Mapping|60718_62440
+OAM-401961-229479-19,41072.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,52,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100490_57369
+OAM-242861-249749-19,55212.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,57,FreeTown Drone Imagery Mapping|60715_62437
+OAM-311470-282242-19,478.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,84,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77867_70560
+OAM-402079-229355-19,16224.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,50,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100519_57338
+OAM-242879-249771-19,55645.0,50-149,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,57,FreeTown Drone Imagery Mapping|60719_62442
+OAM-402109-229400-19,21388.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,79,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100527_57350
+OAM-311474-282219-19,744.0,50-149,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2,80,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2|77868_70554
+OAM-261821-254048-19,5720.0,50-149,Africa,Ghana,"Old Fadama slum mapping project - Accra, Ghana",129,"Old Fadama slum mapping project - Accra, Ghana|65455_63512"
+OAM-402066-229433-19,14277.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,70,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100516_57358
+OAM-402136-229432-19,25891.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,50,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100534_57358
+OAM-402143-229416-19,26851.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,50,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100535_57354
+OAM-402082-229483-19,51854.0,50-149,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,50,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100520_57370
+OAM-402064-229342-19,13902.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,40,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100516_57335
+OAM-402075-229367-19,15590.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,22,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100518_57341
+OAM-402143-229367-19,26802.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,20,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100535_57341
+OAM-402135-229370-19,25674.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,21,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100533_57342
+OAM-402148-229392-19,,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,20,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100537_57348
+OAM-402034-229410-19,48062.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,21,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100508_57352
+OAM-402101-229489-19,52475.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,20,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100525_57372
+OAM-402098-229464-19,19515.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,11,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100524_57366
+OAM-402054-229403-19,12862.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,20,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100513_57350
+OAM-402092-229447-19,18472.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,21,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100523_57361
+OAM-402015-229447-19,45880.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,49,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100503_57361
+OAM-402114-229443-19,22308.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,14,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100528_57360
+OAM-402112-229480-19,21995.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,11,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100528_57370
+OAM-402013-229442-19,45628.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,20,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100503_57360
+OAM-402136-229340-19,,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,11,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100534_57335
+OAM-401911-229487-19,34262.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,49,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100477_57371
+OAM-402055-229492-19,50321.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,21,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100513_57373
+OAM-402133-229337-19,,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,14,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100533_57334
+OAM-402050-229509-19,49842.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,13,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100512_57377
+OAM-401867-229477-19,28454.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,20,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100466_57369
+OAM-402114-229495-19,52810.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,10,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100528_57373
+OAM-402085-229410-19,,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,10,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100521_57352
+OAM-402108-229423-19,,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,24,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100527_57355
+OAM-401942-229467-19,38936.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,20,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100485_57366
+OAM-402069-229407-19,14696.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,49,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100517_57351
+OAM-402116-229430-19,22645.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,20,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100529_57357
+OAM-401949-229459-19,39883.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,47,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100487_57364
+OAM-401937-229476-19,38212.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,20,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100484_57369
+OAM-402067-229369-19,,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,44,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100516_57342
+OAM-402051-229473-19,49908.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,18,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100512_57368
+OAM-401991-229451-19,43314.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,21,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100497_57362
+OAM-401888-229390-19,30813.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,13,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100472_57347
+OAM-402111-229443-19,21783.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,21,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100527_57360
+OAM-246569-252961-19,4899.0,10-49,Africa,Liberia,"BassaTown slum mapping project - Monrovia, Liberia",21,"BassaTown slum mapping project - Monrovia, Liberia|61642_63240"
+OAM-246565-252967-19,4856.0,10-49,Africa,Liberia,"BassaTown slum mapping project - Monrovia, Liberia",11,"BassaTown slum mapping project - Monrovia, Liberia|61641_63241"
+OAM-311468-282226-19,416.0,10-49,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,11,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77867_70556
+OAM-309662-301174-19,9723.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #2 Mahotas,28,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #2 Mahotas|77415_75293
+OAM-309630-301146-19,9910.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C,21,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C|77407_75286
+OAM-309412-301270-19,7387.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J,22,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J|77353_75317
+OAM-309425-301272-19,7721.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J,29,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J|77356_75318
+OAM-246577-252949-19,4952.0,10-49,Africa,Liberia,"WoodCamp  slum mapping project - Monrovia, Liberia",29,"WoodCamp  slum mapping project - Monrovia, Liberia|61644_63237"
+OAM-309439-301275-19,8210.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J,30,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J|77359_75318
+OAM-309430-301259-19,7883.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J,24,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J|77357_75314
+OAM-309428-301251-19,7805.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J,22,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J|77357_75312
+OAM-246574-252950-19,4924.0,10-49,Africa,Liberia,"WoodCamp  slum mapping project - Monrovia, Liberia",34,"WoodCamp  slum mapping project - Monrovia, Liberia|61643_63237"
+OAM-320780-265778-19,4163.0,10-49,Africa,Kenya,"Handaraku village, Tana River",23,"Handaraku village, Tana River|80195_66444"
+OAM-309530-301145-19,9349.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio,15,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio|77382_75286
+OAM-309511-301125-19,8659.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio,22,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio|77377_75281
+OAM-320713-265549-19,,10-49,Africa,Kenya,"Galili village, Tana River",22,"Galili village, Tana River|80178_66387"
+OAM-309634-301145-19,9961.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C,22,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C|77408_75286
+OAM-309685-301059-19,7148.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava,23,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava|77421_75264
+OAM-309633-301141-19,9944.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C,21,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C|77408_75285
+OAM-305976-261702-19,1154.0,10-49,Africa,Uganda,Ruboni Community Tourism Mapping _Bugoye Trading Centre Kasese District,33,Ruboni Community Tourism Mapping _Bugoye Trading Centre Kasese District|76494_65425
+OAM-310036-265794-19,5615.0,10-49,Africa,Tanzania,"Kigoto slum mapping project - Mwanza, Tanzania",27,"Kigoto slum mapping project - Mwanza, Tanzania|77509_66448"
+OAM-309429-301277-19,7866.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J,27,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J|77357_75319
+OAM-309513-301147-19,8747.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio,22,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio|77378_75286
+OAM-309682-301066-19,7054.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava,21,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava|77420_75266
+OAM-305946-261653-19,1185.0,10-49,Africa,Uganda,Ruboni Community Tourism Mapping _Kyanya Trading Centre Kasese District,10,Ruboni Community Tourism Mapping _Kyanya Trading Centre Kasese District|76486_65413
+OAM-309526-301133-19,9218.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio,25,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio|77381_75283
+OAM-242880-249767-19,55665.0,10-49,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,43,FreeTown Drone Imagery Mapping|60720_62441
+OAM-309525-301126-19,9178.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio,25,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio|77381_75281
+OAM-309665-301173-19,9770.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #2 Mahotas,20,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #2 Mahotas|77416_75293
+OAM-309514-301148-19,8783.0,10-49,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio,20,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio|77378_75287
+OAM-242871-249732-19,55431.0,10-49,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,20,FreeTown Drone Imagery Mapping|60717_62433
+OAM-310170-265835-19,5460.0,10-49,Africa,Tanzania,"Busenga slum mapping project - Mwanza, Tanzania",23,"Busenga slum mapping project - Mwanza, Tanzania|77542_66458"
+OAM-246578-252956-19,4969.0,10-49,Africa,Liberia,"WoodCamp  slum mapping project - Monrovia, Liberia",23,"WoodCamp  slum mapping project - Monrovia, Liberia|61644_63239"
+OAM-168537-309700-19,54467.0,10-49,Other,Argentina,Villa Aní Mí - Disaster preparedness ,15,Villa Aní Mí - Disaster preparedness |42134_77425
+OAM-151760-232385-19,56963.0,10-49,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),20,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37940_58096
+OAM-152868-275854-19,,10-49,Other,Peru,Mapatón Nacional Perú Puerto Súngaro Amazonía ,14,Mapatón Nacional Perú Puerto Súngaro Amazonía |38217_68963
+OAM-172292-247259-19,5917.0,10-49,Other,Trinidad and Tobago,ODPM's GIS Day Mapathon Fanny Village,10,ODPM's GIS Day Mapathon Fanny Village|43073_61814
+OAM-172288-247262-19,5884.0,10-49,Other,Trinidad and Tobago,ODPM's GIS Day Mapathon Fanny Village,10,ODPM's GIS Day Mapathon Fanny Village|43072_61815
+OAM-152866-275848-19,,10-49,Other,Peru,Mapatón Nacional Perú Puerto Súngaro Amazonía ,15,Mapatón Nacional Perú Puerto Súngaro Amazonía |38216_68962
+OAM-152145-275385-19,56139.0,10-49,Other,Peru,Mapatón Nacional Perú Mariela Amazonía ,26,Mapatón Nacional Perú Mariela Amazonía |38036_68846
+OAM-444097-246335-19,55869.0,10-49,Other,Philippines,"Mapping Buildings and Roads-  Poblacion, Javier, Leyte",29,"Mapping Buildings and Roads-  Poblacion, Javier, Leyte|111024_61583"
+OAM-465093-208111-19,818.0,10-49,Other,Japan,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01,14,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01|116273_52027
+OAM-151787-232327-19,57446.0,10-49,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),23,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37946_58081
+OAM-444097-246331-19,55865.0,10-49,Other,Philippines,"Mapping Buildings and Roads-  Poblacion, Javier, Leyte",26,"Mapping Buildings and Roads-  Poblacion, Javier, Leyte|111024_61582"
+OAM-152161-275379-19,56262.0,10-49,Other,Peru,Mapatón Nacional Perú Mariela Amazonía ,24,Mapatón Nacional Perú Mariela Amazonía |38040_68844
+OAM-125690-237226-19,,10-49,Other,Mexico,Centro Poblado Los Joaquines,12,Centro Poblado Los Joaquines|31422_59306
+OAM-151776-232390-19,57159.0,10-49,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),20,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37944_58097
+OAM-331229-214627-19,901.0,10-49,Other,Iraq,Ash Sharish,14,Ash Sharish|82807_53656
+OAM-152863-275865-19,56462.0,10-49,Other,Peru,Mapatón Nacional Perú Puerto Súngaro Amazonía ,12,Mapatón Nacional Perú Puerto Súngaro Amazonía |38215_68966
+OAM-151789-232316-19,57499.0,10-49,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),48,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37947_58079
+OAM-465092-208112-19,802.0,10-49,Other,Japan,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01,17,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01|116273_52028
+OAM-151777-232336-19,57171.0,10-49,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),46,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37944_58084
+OAM-439767-246892-19,57814.0,10-49,Other,Philippines,"Mapping Buildings – Juraojurao Island, Anini-y, Antique",11,"Mapping Buildings – Juraojurao Island, Anini-y, Antique|109941_61723"
+OAM-152866-275853-19,,10-49,Other,Peru,Mapatón Nacional Perú Puerto Súngaro Amazonía ,14,Mapatón Nacional Perú Puerto Súngaro Amazonía |38216_68963
+OAM-172286-247268-19,5871.0,10-49,Other,Trinidad and Tobago,ODPM's GIS Day Mapathon Fanny Village,10,ODPM's GIS Day Mapathon Fanny Village|43071_61817
+OAM-168540-309702-19,,10-49,Other,Argentina,Villa Aní Mí - Disaster preparedness ,11,Villa Aní Mí - Disaster preparedness |42135_77425
+OAM-331234-214629-19,941.0,10-49,Other,Iraq,Ash Sharish,15,Ash Sharish|82808_53657
+OAM-172282-247268-19,5838.0,10-49,Other,Trinidad and Tobago,ODPM's GIS Day Mapathon Fanny Village,10,ODPM's GIS Day Mapathon Fanny Village|43070_61817
+OAM-152866-275865-19,56542.0,10-49,Other,Peru,Mapatón Nacional Perú Puerto Súngaro Amazonía ,20,Mapatón Nacional Perú Puerto Súngaro Amazonía |38216_68966
+OAM-151793-232320-19,57604.0,10-49,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),20,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37948_58080
+OAM-151781-232336-19,57296.0,10-49,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),46,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37945_58084
+OAM-152169-275376-19,,10-49,Other,Peru,Mapatón Nacional Perú Mariela Amazonía ,24,Mapatón Nacional Perú Mariela Amazonía |38042_68844
+OAM-152859-275843-19,56414.0,10-49,Other,Peru,Mapatón Nacional Perú Puerto Súngaro Amazonía ,10,Mapatón Nacional Perú Puerto Súngaro Amazonía |38214_68960
+OAM-439763-246900-19,,10-49,Other,Philippines,"Mapping Buildings – Juraojurao Island, Anini-y, Antique",13,"Mapping Buildings – Juraojurao Island, Anini-y, Antique|109940_61725"
+OAM-465091-208107-19,,10-49,Other,Japan,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01,10,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01|116272_52026
+OAM-151789-232343-19,57519.0,10-49,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),20,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37947_58085
+OAM-401901-229469-19,32753.0,10-49,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,13,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100475_57367
+OAM-401875-229464-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,1,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100468_57366
+OAM-402105-229437-19,20715.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,2,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100526_57359
+OAM-401889-229386-19,30946.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,1,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100472_57346
+OAM-401863-229374-19,27903.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,1,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100465_57343
+OAM-402114-229399-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,8,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100528_57349
+OAM-401936-229440-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,7,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100484_57360
+OAM-402045-229318-19,11891.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,1,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100511_57329
+OAM-401983-229502-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,5,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100495_57375
+OAM-402091-229493-19,52189.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,2,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100522_57373
+OAM-402054-229397-19,12856.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,9,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100513_57349
+OAM-401929-229484-19,37008.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,5,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100482_57371
+OAM-402153-229435-19,27554.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,1,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100538_57358
+OAM-402041-229316-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,3,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100510_57329
+OAM-402094-229450-19,18814.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,5,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100523_57362
+OAM-402006-229466-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,3,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100501_57366
+OAM-401999-229443-19,44071.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,1,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100499_57360
+OAM-402142-229348-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,5,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100535_57337
+OAM-402024-229466-19,47020.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,5,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100506_57366
+OAM-402023-229413-19,46849.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,5,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100505_57353
+OAM-401895-229373-19,31776.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,4,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100473_57343
+OAM-401899-229355-19,32342.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,1,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100474_57338
+OAM-402103-229468-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,9,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100525_57367
+OAM-402056-229499-19,50425.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,2,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100514_57374
+OAM-402031-229455-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,1,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100507_57363
+OAM-402039-229385-19,11371.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,4,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100509_57346
+OAM-401950-229425-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,3,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100487_57356
+OAM-402089-229432-19,17953.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,5,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100522_57358
+OAM-402044-229476-19,49184.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,5,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100511_57369
+OAM-402086-229388-19,17411.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,4,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100521_57347
+OAM-401928-229408-19,36778.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,5,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100482_57352
+OAM-402133-229449-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,8,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100533_57362
+OAM-401910-229388-19,34013.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,3,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100477_57347
+OAM-402069-229412-19,,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,1,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100517_57353
+OAM-320780-265774-19,4159.0,1-9,Africa,Kenya,"Handaraku village, Tana River",5,"Handaraku village, Tana River|80195_66443"
+OAM-309433-301255-19,7984.0,1-9,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J,6,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J|77358_75313
+OAM-242851-249744-19,,1-9,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,4,FreeTown Drone Imagery Mapping|60712_62436
+OAM-309675-301043-19,,1-9,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava,4,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava|77418_75260
+OAM-311465-282219-19,652.0,1-9,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2,2,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2|77866_70554
+OAM-309516-301121-19,8829.0,1-9,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio,1,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio|77379_75280
+OAM-261821-254043-19,5741.0,1-9,Africa,Ghana,"Agbogloshie slum mapping project - Accra, Ghana",6,"Agbogloshie slum mapping project - Accra, Ghana|65455_63510"
+OAM-305951-261659-19,1222.0,1-9,Africa,Uganda,Ruboni Community Tourism Mapping _Kyanya Trading Centre Kasese District,3,Ruboni Community Tourism Mapping _Kyanya Trading Centre Kasese District|76487_65414
+OAM-316013-263958-19,4704.0,1-9,Africa,Kenya,Nairobi River Njiru3,2,Nairobi River Njiru3|79003_65989
+OAM-309691-301058-19,7301.0,1-9,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava,2,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava|77422_75264
+OAM-315997-263954-19,,1-9,Africa,Kenya,Nairobi River Njiru2,3,Nairobi River Njiru2|78999_65988
+OAM-309430-301281-19,7905.0,1-9,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J,5,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J|77357_75320
+OAM-316016-263959-19,4448.0,1-9,Africa,Kenya,Nairobi River Njiru3,7,Nairobi River Njiru3|79004_65989
+OAM-309658-301181-19,,1-9,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #2 Mahotas,8,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #2 Mahotas|77414_75295
+OAM-316009-263954-19,4669.0,1-9,Africa,Kenya,Nairobi River Njiru4,2,Nairobi River Njiru4|79002_65988
+OAM-242852-249733-19,54954.0,1-9,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,1,FreeTown Drone Imagery Mapping|60713_62433
+OAM-311466-282234-19,378.0,1-9,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,6,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77866_70558
+OAM-311468-282229-19,,1-9,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,9,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77867_70557
+OAM-316002-263952-19,4604.0,1-9,Africa,Kenya,Nairobi River Njiru4,2,Nairobi River Njiru4|79000_65988
+OAM-320776-265778-19,4121.0,1-9,Africa,Kenya,"Handaraku village, Tana River",1,"Handaraku village, Tana River|80194_66444"
+OAM-311471-282219-19,719.0,1-9,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2,5,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2|77867_70554
+OAM-305952-261658-19,1225.0,1-9,Africa,Uganda,Ruboni Community Tourism Mapping _Kyanya Trading Centre Kasese District,5,Ruboni Community Tourism Mapping _Kyanya Trading Centre Kasese District|76488_65414
+OAM-312008-260271-19,1074.0,1-9,Africa,Uganda,Mapping with Drone Imagery -  Busano Bukedea District,2,Mapping with Drone Imagery -  Busano Bukedea District|78002_65067
+OAM-316004-263955-19,4627.0,1-9,Africa,Kenya,Nairobi River Njiru4,1,Nairobi River Njiru4|79001_65988
+OAM-305974-261699-19,1135.0,1-9,Africa,Uganda,Ruboni Community Tourism Mapping _Bugoye Trading Centre Kasese District,2,Ruboni Community Tourism Mapping _Bugoye Trading Centre Kasese District|76493_65424
+OAM-242854-249736-19,,1-9,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,4,FreeTown Drone Imagery Mapping|60713_62434
+OAM-310170-265826-19,5451.0,1-9,Africa,Tanzania,"Busenga slum mapping project - Mwanza, Tanzania",5,"Busenga slum mapping project - Mwanza, Tanzania|77542_66456"
+OAM-312006-260280-19,1060.0,1-9,Africa,Uganda,Mapping with Drone Imagery -  Busano Bukedea District,5,Mapping with Drone Imagery -  Busano Bukedea District|78001_65070
+OAM-309657-301174-19,,1-9,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #2 Mahotas,1,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #2 Mahotas|77414_75293
+OAM-310171-265829-19,5473.0,1-9,Africa,Tanzania,"Busenga slum mapping project - Mwanza, Tanzania",5,"Busenga slum mapping project - Mwanza, Tanzania|77542_66457"
+OAM-316005-263958-19,4640.0,1-9,Africa,Kenya,Nairobi River Njiru4,5,Nairobi River Njiru4|79001_65989
+OAM-315991-263954-19,4303.0,1-9,Africa,Kenya,Nairobi River Njiru2,2,Nairobi River Njiru2|78997_65988
+OAM-309437-301286-19,8155.0,1-9,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J,3,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J|77359_75321
+OAM-152875-275878-19,56665.0,1-9,Other,Peru,Mapatón Nacional Perú Puerto Súngaro Amazonía ,4,Mapatón Nacional Perú Puerto Súngaro Amazonía |38218_68969
+OAM-364209-201948-19,309.0,1-9,Other,Tajikistan,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav,2,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav|91052_50487
+OAM-364198-201949-19,199.0,1-9,Other,Tajikistan,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav,2,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav|91049_50487
+OAM-151781-232391-19,57310.0,1-9,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),5,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37945_58097
+OAM-152871-275868-19,56642.0,1-9,Other,Peru,Mapatón Nacional Perú Puerto Súngaro Amazonía ,4,Mapatón Nacional Perú Puerto Súngaro Amazonía |38217_68967
+OAM-443165-242145-19,54123.0,1-9,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",1,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110791_60536"
+OAM-152871-275837-19,,1-9,Other,Peru,Mapatón Nacional Perú Puerto Súngaro Amazonía ,3,Mapatón Nacional Perú Puerto Súngaro Amazonía |38217_68959
+OAM-465094-208107-19,831.0,1-9,Other,Japan,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01,5,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01|116273_52026
+OAM-443180-242099-19,,1-9,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",1,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110795_60524"
+OAM-465098-208118-19,868.0,1-9,Other,Japan,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01,2,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01|116274_52029
+OAM-364189-201943-19,89.0,1-9,Other,Tajikistan,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav,3,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav|91047_50485
+OAM-331247-214623-19,1045.0,1-9,Other,Iraq,Ash Sharish,3,Ash Sharish|82811_53655
+OAM-152136-275382-19,56019.0,1-9,Other,Peru,Mapatón Nacional Perú Mariela Amazonía ,1,Mapatón Nacional Perú Mariela Amazonía |38034_68845
+OAM-152134-275385-19,56004.0,1-9,Other,Peru,Mapatón Nacional Perú Mariela Amazonía ,6,Mapatón Nacional Perú Mariela Amazonía |38033_68846
+OAM-151789-232326-19,57502.0,1-9,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),7,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37947_58081
+OAM-331236-214627-19,955.0,1-9,Other,Iraq,Ash Sharish,6,Ash Sharish|82809_53656
+OAM-465092-208118-19,,1-9,Other,Japan,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01,3,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01|116273_52029
+OAM-116673-237195-19,,1-9,Other,Mexico,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS - (3),3,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS - (3)|29168_59298
+OAM-152866-275843-19,,1-9,Other,Peru,Mapatón Nacional Perú Puerto Súngaro Amazonía ,2,Mapatón Nacional Perú Puerto Súngaro Amazonía |38216_68960
+OAM-152162-275386-19,56278.0,1-9,Other,Peru,Mapatón Nacional Perú Mariela Amazonía ,7,Mapatón Nacional Perú Mariela Amazonía |38040_68846
+OAM-364192-201949-19,132.0,1-9,Other,Tajikistan,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav,5,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav|91048_50487
+OAM-116646-237199-19,1419.0,1-9,Other,Mexico,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS - (2),5,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS - (2)|29161_59299
+OAM-151776-232330-19,57136.0,1-9,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),5,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37944_58082
+OAM-364208-201952-19,305.0,1-9,Other,Tajikistan,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav,1,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav|91052_50488
+OAM-331240-214628-19,988.0,1-9,Other,Iraq,Ash Sharish,3,Ash Sharish|82810_53657
+OAM-331239-214628-19,980.0,1-9,Other,Iraq,Ash Sharish,5,Ash Sharish|82809_53657
+OAM-152125-275395-19,55955.0,1-9,Other,Peru,Mapatón Nacional Perú Mariela Amazonía ,1,Mapatón Nacional Perú Mariela Amazonía |38031_68848
+OAM-443881-246403-19,,1-9,Other,Philippines,Mapping Buildings – Surrounding Area of Visayas State University Vegetable Farm,1,Mapping Buildings – Surrounding Area of Visayas State University Vegetable Farm|110970_61600
+OAM-439709-246862-19,,1-9,Other,Philippines,"Mapping Buildings – Poblacion and Sagua Coastal Area, Anini-y, Antique",5,"Mapping Buildings – Poblacion and Sagua Coastal Area, Anini-y, Antique|109927_61715"
+OAM-168538-309708-19,54484.0,1-9,Other,Argentina,Villa Aní Mí - Disaster preparedness ,2,Villa Aní Mí - Disaster preparedness |42134_77427
+OAM-443174-242088-19,54245.0,1-9,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",1,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110793_60522"
+OAM-152165-275379-19,56300.0,1-9,Other,Peru,Mapatón Nacional Perú Mariela Amazonía ,5,Mapatón Nacional Perú Mariela Amazonía |38041_68844
+OAM-152140-275387-19,,1-9,Other,Peru,Mapatón Nacional Perú Mariela Amazonía ,3,Mapatón Nacional Perú Mariela Amazonía |38035_68846
+OAM-401877-229407-19,29504.0,1-9,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,5,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100469_57351
+OAM-402029-229390-19,,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,0,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100507_57347
+OAM-402012-229486-19,45551.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100503_57371
+OAM-401981-229479-19,42486.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100495_57369
+OAM-402003-229432-19,44475.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100500_57358
+OAM-401863-229420-19,27949.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100465_57355
+OAM-401861-229450-19,27755.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100465_57362
+OAM-402008-229466-19,45061.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100502_57366
+OAM-402090-229363-19,18051.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,0,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100522_57340
+OAM-402013-229473-19,,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100503_57368
+OAM-402051-229359-19,12519.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,0,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100512_57339
+OAM-402122-229504-19,53044.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100530_57376
+OAM-401867-229415-19,28392.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100466_57353
+OAM-401871-229447-19,28870.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100467_57361
+OAM-401875-229482-19,29353.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100468_57370
+OAM-401905-229467-19,,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100476_57366
+OAM-401932-229371-19,,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100483_57342
+OAM-401878-229417-19,,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100469_57354
+OAM-402055-229370-19,12931.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping,0,Myanmar Earthquake 2025 - Mandalay City Buildings Mapping|100513_57342
+OAM-401864-229426-19,28067.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100466_57356
+OAM-402018-229460-19,,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100504_57365
+OAM-402011-229420-19,45365.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100502_57355
+OAM-401947-229471-19,39634.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100486_57367
+OAM-401944-229477-19,39230.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100486_57369
+OAM-402039-229506-19,48692.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100509_57376
+OAM-402161-229497-19,,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100540_57374
+OAM-402162-229500-19,53873.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100540_57375
+OAM-401950-229429-19,39979.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100487_57357
+OAM-401883-229434-19,30213.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100470_57358
+OAM-402064-229481-19,,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100516_57370
+OAM-401899-229460-19,,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100474_57365
+OAM-401951-229375-19,40048.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100487_57343
+OAM-401874-229436-19,29195.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Sagaing Town Building Footprints,0,Myanmar Earthquake 2025 - Sagaing Town Building Footprints|100468_57359
+OAM-402012-229476-19,,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100503_57369
+OAM-315991-263966-19,4315.0,empty,Africa,Kenya,Nairobi River Njiru2,0,Nairobi River Njiru2|78997_65991
+OAM-311467-282211-19,666.0,empty,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2,0,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp- part 2|77866_70552
+OAM-309672-301051-19,6632.0,empty,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava,0,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava|77418_75262
+OAM-242886-249761-19,,empty,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,0,FreeTown Drone Imagery Mapping|60721_62440
+OAM-320595-265330-19,,empty,Africa,Kenya,"Maziwa village, Tana River",0,"Maziwa village, Tana River|80148_66332"
+OAM-309694-301053-19,7350.0,empty,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava,0,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava|77423_75263
+OAM-309628-301149-19,9887.0,empty,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C,0,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C|77407_75287
+OAM-312010-260272-19,,empty,Africa,Uganda,Mapping with Drone Imagery -  Busano Bukedea District,0,Mapping with Drone Imagery -  Busano Bukedea District|78002_65068
+OAM-315990-263956-19,4291.0,empty,Africa,Kenya,Nairobi River Njiru2,0,Nairobi River Njiru2|78997_65989
+OAM-242887-249759-19,55808.0,empty,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,0,FreeTown Drone Imagery Mapping|60721_62439
+OAM-309678-301032-19,6861.0,empty,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava,0,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #5 Guava|77419_75258
+OAM-320594-265321-19,4041.0,empty,Africa,Kenya,"Maziwa village, Tana River",0,"Maziwa village, Tana River|80148_66330"
+OAM-315991-263960-19,,empty,Africa,Kenya,Nairobi River Njiru2,0,Nairobi River Njiru2|78997_65990
+OAM-316010-263957-19,,empty,Africa,Kenya,Nairobi River Njiru4,0,Nairobi River Njiru4|79002_65989
+OAM-315989-263974-19,,empty,Africa,Kenya,Nairobi River Njiru5,0,Nairobi River Njiru5|78997_65993
+OAM-315997-263961-19,,empty,Africa,Kenya,Nairobi River Njiru2,0,Nairobi River Njiru2|78999_65990
+OAM-309421-301271-19,,empty,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J,0,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #4 Matola J|77355_75317
+OAM-309627-301149-19,9874.0,empty,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C,0,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C|77406_75287
+OAM-312012-260279-19,1122.0,empty,Africa,Uganda,Mapping with Drone Imagery -  Busano Bukedea District,0,Mapping with Drone Imagery -  Busano Bukedea District|78003_65069
+OAM-315985-263963-19,4242.0,empty,Africa,Kenya,Nairobi River Njiru2,0,Nairobi River Njiru2|78996_65990
+OAM-316013-263954-19,4700.0,empty,Africa,Kenya,Nairobi River Njiru3,0,Nairobi River Njiru3|79003_65988
+OAM-311470-282223-19,,empty,Africa,Malawi,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp,0,Malawi- Mapping for People Living in Protracted Crisis- Dzaleka Refugee Camp|77867_70555
+OAM-310176-265839-19,5571.0,empty,Africa,Tanzania,"Busenga slum mapping project - Mwanza, Tanzania",0,"Busenga slum mapping project - Mwanza, Tanzania|77544_66459"
+OAM-312009-260276-19,1090.0,empty,Africa,Uganda,Mapping with Drone Imagery -  Busano Bukedea District,0,Mapping with Drone Imagery -  Busano Bukedea District|78002_65069
+OAM-320592-265467-19,3772.0,empty,Africa,Kenya,"Danisa village 2, Tana River",0,"Danisa village 2, Tana River|80148_66366"
+OAM-309513-301130-19,8730.0,empty,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio,0,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #3 1 de Maio|77378_75282
+OAM-310178-265834-19,,empty,Africa,Tanzania,"Busenga slum mapping project - Mwanza, Tanzania",0,"Busenga slum mapping project - Mwanza, Tanzania|77544_66458"
+OAM-260609-248010-19,599.0,empty,Africa,Ghana,"Mapping to Create Flood Resilient Communities- Nawuni, Ghana",0,"Mapping to Create Flood Resilient Communities- Nawuni, Ghana|65152_62002"
+OAM-315993-263956-19,,empty,Africa,Kenya,Nairobi River Njiru2,0,Nairobi River Njiru2|78998_65989
+OAM-309631-301139-19,9916.0,empty,Africa,Mozambique,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C,0,Community-Based Urban Planning for Sustainable and Climate-Resilient Development - Mapathon 2025 #1 Magoanine-C|77407_75284
+OAM-320599-265453-19,,empty,Africa,Kenya,"Danisa village, Tana River",0,"Danisa village, Tana River|80149_66363"
+OAM-242848-249749-19,54828.0,empty,Africa,Sierra Leone,FreeTown Drone Imagery Mapping,0,FreeTown Drone Imagery Mapping|60712_62437
+OAM-260615-248012-19,,empty,Africa,Ghana,"Mapping to Create Flood Resilient Communities- Nawuni, Ghana",0,"Mapping to Create Flood Resilient Communities- Nawuni, Ghana|65153_62003"
+OAM-116758-237187-19,3487.0,empty,Other,Mexico,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS (18),0,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS (18)|29189_59296
+OAM-443176-242100-19,54313.0,empty,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110794_60525"
+OAM-444101-246353-19,57666.0,empty,Other,Philippines,"Mapping of Building Structures – Javier, Leyte (New Cemetery)",0,"Mapping of Building Structures – Javier, Leyte (New Cemetery)|111025_61588"
+OAM-125610-237316-19,6279.0,empty,Other,Mexico,Centro Poblado Francisco I Madero,0,Centro Poblado Francisco I Madero|31402_59329
+OAM-331226-214624-19,,empty,Other,Iraq,Ash Sharish,0,Ash Sharish|82806_53656
+OAM-116697-237221-19,2251.0,empty,Other,Mexico,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS (9),0,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS (9)|29174_59305
+OAM-443173-242096-19,54229.0,empty,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110793_60524"
+OAM-331234-214624-19,936.0,empty,Other,Iraq,Ash Sharish,0,Ash Sharish|82808_53656
+OAM-116773-237183-19,3746.0,empty,Other,Mexico,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS (18),0,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS (18)|29193_59295
+OAM-443172-242105-19,,empty,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110793_60526"
+OAM-151940-253100-19,,empty,Other,Colombia,Proyecto de Mapeo San Antonio de Prado (Vereda Montañita),0,Proyecto de Mapeo San Antonio de Prado (Vereda Montañita)|37985_63275
+OAM-443009-241423-19,56681.0,empty,Other,Philippines,"Mapping Buildings - Hiyop, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Hiyop, Catanduanes - DroneDeploy, Help.NGO and CatSu|110752_60355"
+OAM-443280-242052-19,54416.0,empty,Other,Philippines,"Mapping Buildings - Baras Mangroves, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Baras Mangroves, Catanduanes - DroneDeploy, Help.NGO and CatSu|110820_60513"
+OAM-443135-241546-19,56898.0,empty,Other,Philippines,"Mapping Buildings - San Isidro and Bugao, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - San Isidro and Bugao, Catanduanes - DroneDeploy, Help.NGO and CatSu|110783_60386"
+OAM-125608-237310-19,6255.0,empty,Other,Mexico,Centro Poblado Francisco I Madero,0,Centro Poblado Francisco I Madero|31402_59327
+OAM-465091-208118-19,792.0,empty,Other,Japan,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01,0,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01|116272_52029
+OAM-151774-232337-19,,empty,Other,Cuba,Caribbean Response Hurricane Melissa 2025 Cuba (1),0,Caribbean Response Hurricane Melissa 2025 Cuba (1)|37943_58084
+OAM-443135-241543-19,,empty,Other,Philippines,"Mapping Buildings - San Isidro and Bugao, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - San Isidro and Bugao, Catanduanes - DroneDeploy, Help.NGO and CatSu|110783_60385"
+OAM-443171-242107-19,,empty,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110792_60526"
+OAM-443153-242151-19,53964.0,empty,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110788_60537"
+OAM-151935-253105-19,1917.0,empty,Other,Colombia,Proyecto de Mapeo San Antonio de Prado (Vereda Montañita),0,Proyecto de Mapeo San Antonio de Prado (Vereda Montañita)|37983_63276
+OAM-443132-241551-19,,empty,Other,Philippines,"Mapping Buildings - San Isidro and Bugao, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - San Isidro and Bugao, Catanduanes - DroneDeploy, Help.NGO and CatSu|110783_60387"
+OAM-443179-242104-19,54378.0,empty,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110794_60526"
+OAM-443156-242146-19,53985.0,empty,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110789_60536"
+OAM-125593-237317-19,5994.0,empty,Other,Mexico,Centro Poblado Francisco I Madero,0,Centro Poblado Francisco I Madero|31398_59329
+OAM-364194-201952-19,,empty,Other,Tajikistan,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav,0,Missing Maps - vulnerable villages of Tajikistan - Nomandiyon and Chasmai Nav|91048_50488
+OAM-443165-242118-19,54112.0,empty,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110791_60529"
+OAM-125688-237228-19,9997.0,empty,Other,Mexico,Centro Poblado Los Joaquines,0,Centro Poblado Los Joaquines|31422_59307
+OAM-116633-237199-19,1236.0,empty,Other,Mexico,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS - (1),0,MEXICO ACAPULCO RECOVERY FROM HURRICANE OTIS 2023 - DAMAGED BUILDINGS - (1)|29158_59299
+OAM-443178-242097-19,,empty,Other,Philippines,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu",0,"Mapping Buildings - Bato River, Catanduanes - DroneDeploy, Help.NGO and CatSu|110794_60524"
+OAM-331243-214625-19,1012.0,empty,Other,Iraq,Ash Sharish,0,Ash Sharish|82810_53656
+OAM-152174-275379-19,56389.0,empty,Other,Peru,Mapatón Nacional Perú Mariela Amazonía ,0,Mapatón Nacional Perú Mariela Amazonía |38043_68844
+OAM-465090-208112-19,771.0,empty,Other,Japan,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01,0,Izu-Oshima Disaster Preparedness Mapping 2021 Motomachi 01|116272_52028
+OAM-402089-229479-19,52108.0,empty,Myanmar,Myanmar,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping,0,Myanmar Earthquake 2025 - Amarapura/Mandalay Buildings Mapping|100522_57369

@@ -1,0 +1,21 @@
+{
+  "name": "vhr-buildings-benchmark-v1",
+  "chips": 400,
+  "per_band": 100,
+  "seed": 20260925,
+  "bands": {
+    "empty": 100,
+    "1-9": 100,
+    "10-49": 100,
+    "50-149": 100
+  },
+  "regions": {
+    "Myanmar": 151,
+    "Africa": 150,
+    "Other": 99
+  },
+  "countries": 19,
+  "buildings": 9523,
+  "dino_clean_chips": 48,
+  "blocks": 400
+}

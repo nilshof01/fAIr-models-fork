@@ -1,0 +1,56 @@
+{
+  "benchmark_test_chips": 400,
+  "pool_chips": 4301,
+  "folds": 5,
+  "val_frac_target": 0.15,
+  "bins": 7,
+  "block": 4,
+  "seed": 1337,
+  "per_fold": {
+    "0": {
+      "train_chips": 3686,
+      "val_chips": 615,
+      "train_buildings": 52372,
+      "val_buildings": 8729,
+      "train_empty": 1713,
+      "val_empty": 311
+    },
+    "1": {
+      "train_chips": 3686,
+      "val_chips": 615,
+      "train_buildings": 52372,
+      "val_buildings": 8729,
+      "train_empty": 1735,
+      "val_empty": 289
+    },
+    "2": {
+      "train_chips": 3686,
+      "val_chips": 615,
+      "train_buildings": 52372,
+      "val_buildings": 8729,
+      "train_empty": 1738,
+      "val_empty": 286
+    },
+    "3": {
+      "train_chips": 3687,
+      "val_chips": 614,
+      "train_buildings": 52372,
+      "val_buildings": 8729,
+      "train_empty": 1740,
+      "val_empty": 284
+    },
+    "4": {
+      "train_chips": 3687,
+      "val_chips": 614,
+      "train_buildings": 52372,
+      "val_buildings": 8729,
+      "train_empty": 1755,
+      "val_empty": 269
+    }
+  },
+  "notes": [
+    "Test is ALWAYS the fixed benchmark; only validation rotates.",
+    "Benchmark chips are excluded from the pool, so train and val never see them.",
+    "Validation blocks are dealt to balance BUILDING count, not chip count."
+  ]
+}
