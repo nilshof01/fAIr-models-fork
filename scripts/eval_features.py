@@ -292,8 +292,8 @@ def main():
                     help="exclude a k-pixel collar around every label boundary "
                          "from the pixel metrics, reported ALONGSIDE the strict "
                          "score. 0 disables the second number. Default 2: on "
-                         "this data a 2px collar is 25% of label pixels and "
-                         "recovers +5.3 F1, while 4px costs 44% of label pixels "
+                         "this data a 2px collar is 25%% of label pixels and "
+                         "recovers +5.3 F1, while 4px costs 44%% of label pixels "
                          "for +1.5 more and 6px swallows a third of the "
                          "buildings whole")
     ap.add_argument("--out", default=None)

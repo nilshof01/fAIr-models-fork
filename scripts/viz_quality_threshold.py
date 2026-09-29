@@ -146,8 +146,12 @@ def main():
               f"{s['recall']:>8.1%}  {s['bad_caught']:>11.1%}{marker}")
 
     # ── Plot ──────────────────────────────────────────────────────────────────
+    import os
     import matplotlib
-    matplotlib.use("Agg" if a.plot_out else "TkAgg")
+    # TkAgg needs a display; pods and servers have none, and falling back to
+    # Agg there is better than dying after the scoring work is already done
+    matplotlib.use("TkAgg" if (not a.plot_out and os.environ.get("DISPLAY"))
+                   else "Agg")
     import matplotlib.pyplot as plt
 
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(13, 4.5))

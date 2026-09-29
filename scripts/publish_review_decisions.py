@@ -19,6 +19,9 @@ from pathlib import Path
 
 import pandas as pd
 
+# local review-app SQLite; override with VHR_REVIEW_DB. Only needed to REBUILD
+# the pool from raw decisions - the published HF datasets need no local db.
+DEFAULT_REVIEW_DB = "data/review/decisions.sqlite"
 LOCAL_DB = Path(os.environ.get("VHR_REVIEW_DB", DEFAULT_REVIEW_DB))
 SUPABASE = "nilsho01/vhr-buildings-supabase-labels"
 UPSTREAM = "hotosm/vhr-building-segmentation"
@@ -76,10 +79,6 @@ Per-chip human verdicts on the labels of
 [`hotosm/vhr-building-segmentation`](https://huggingface.co/datasets/hotosm/vhr-building-segmentation),
 from two review campaigns by a single reviewer.
 
-# local review-app SQLite; override with VHR_REVIEW_DB. Only needed to
-# REBUILD the pool from raw decisions - the published HF datasets are
-# the normal source and need no local database.
-DEFAULT_REVIEW_DB = "data/review/decisions.sqlite"
 
 **No imagery here.** Every row keys into the upstream dataset by `tile_id`;
 this table adds only the judgement. The point is the *rejections*: derived
