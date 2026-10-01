@@ -6,16 +6,18 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential libgdal-dev git \
     && rm -rf /var/lib/apt/lists/*
 
-ARG DINOV3_HOT_REF=dee030e
-ARG DINOV3_REF=6876159a11b4df116f30f667f8c9888617df0751
 ARG FAIR_PY_OPS_VERSION=0.3.6
+# segmentation-models-pytorch builds the architecture; scipy and scikit-image
+# are what postprocess_instances needs - the distance transform and the
+# watershed that separates touching buildings.
 RUN --mount=type=cache,target=/root/.cache/uv \
     uv pip install --no-sources \
-    "git+https://github.com/kshitijrajsharma/dinov3-hot-ablation@${DINOV3_HOT_REF}" \
-    torchgeo==0.9.0 \
+    segmentation-models-pytorch==0.5.0 \
+    scikit-image==0.25.2 \
+    scipy \
+    rasterio \
     polymetrics==0.2.2 \
-    "fair-py-ops[k8s,serve]==${FAIR_PY_OPS_VERSION}" \
-    && uv pip install --no-deps "git+https://github.com/facebookresearch/dinov3@${DINOV3_REF}"
+    "fair-py-ops[k8s,serve]==${FAIR_PY_OPS_VERSION}"
 
 FROM python:3.13.13-slim-trixie AS runtime
 WORKDIR /app
@@ -29,7 +31,7 @@ COPY --from=builder /usr/local/bin /usr/local/bin
 
 ENV PYTHONUNBUFFERED=1 PYTHONDONTWRITEBYTECODE=1
 
-COPY models/dinov3s_buildings models/dinov3s_buildings
+COPY models/unet_effb4_buildings models/unet_effb4_buildings
 COPY models/conftest.py models/conftest.py
 COPY models/test_integration.py models/test_integration.py
 
@@ -42,15 +44,14 @@ ARG FAIR_PY_OPS_VERSION=0.3.6
 RUN --mount=type=cache,target=/root/.cache/uv \
     uv pip install --system "fair-py-ops[test]==${FAIR_PY_OPS_VERSION}"
 
-# Inference builder: distroless-ready venv. Upstream dinov3-hot + fair-py-ops[serve]
+# Inference builder: CPU-only venv for serving. No torch needed at inference -
+# the model runs through onnxruntime; torch is only used to export the graph.
 FROM ghcr.io/astral-sh/uv:0.11.8-trixie-slim AS inference-builder
 ENV UV_PYTHON_INSTALL_DIR=/python UV_PYTHON_PREFERENCE=only-managed
 RUN apt-get update && apt-get install -y --no-install-recommends git ca-certificates \
     && rm -rf /var/lib/apt/lists/*
 RUN uv python install 3.13
 WORKDIR /app
-ARG DINOV3_HOT_REF=dee030e
-ARG DINOV3_REF=6876159a11b4df116f30f667f8c9888617df0751
 ARG FAIR_PY_OPS_VERSION=0.3.6
 RUN --mount=type=cache,target=/python/.cache/uv \
     uv venv && uv pip install --no-sources \
@@ -58,10 +59,10 @@ RUN --mount=type=cache,target=/python/.cache/uv \
     --index-strategy unsafe-best-match \
     "fair-py-ops[serve]==${FAIR_PY_OPS_VERSION}" \
     onnxruntime==1.28.0 \
-    torchgeo==0.9.0 \
-    "git+https://github.com/kshitijrajsharma/dinov3-hot-ablation@${DINOV3_HOT_REF}" \
-    && uv pip install --no-deps "git+https://github.com/facebookresearch/dinov3@${DINOV3_REF}"
-COPY models/dinov3s_buildings/pipeline.py /app/models/dinov3s_buildings/pipeline.py
+    scikit-image==0.25.2 \
+    scipy \
+    rasterio
+COPY models/unet_effb4_buildings/pipeline.py /app/models/unet_effb4_buildings/pipeline.py
 
 # Inference stage: distroless live-serving runtime.
 FROM gcr.io/distroless/python3-debian12:nonroot AS inference

@@ -89,11 +89,11 @@ or two pixels rarely crosses, whereas segmentation quality is itself an IoU.
 ```python
 from models.unet_effb4_buildings import pipeline
 
-x      = pipeline.preprocess("chip.tif")
+x = pipeline.preprocess("chip.tif")
 logits = session.run(None, {session.get_inputs()[0].name: x})[0]
 
-labels = pipeline.postprocess_instances(logits)   # 0 = background, 1..N
-mask   = pipeline.postprocess(logits)             # binary, contract-compatible
+labels = pipeline.postprocess_instances(logits)  # 0 = background, 1..N
+mask = pipeline.postprocess(logits)  # binary, contract-compatible
 ```
 
 Ship `best_threshold.json` with a checkpoint: folds selected thresholds between

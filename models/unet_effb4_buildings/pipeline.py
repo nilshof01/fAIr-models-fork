@@ -41,9 +41,9 @@ NORM_STD = (0.229, 0.224, 0.225)
 # chose 0.40-0.50; the operating point is not interchangeable between runs, so a
 # checkpoint should ship with its own value.
 DEFAULT_INFERENCE_PARAMS: dict[str, Any] = {
-    "confidence_threshold": 0.50,   # channel 0, mask
-    "core_threshold": 0.50,         # channel 1, seeds
-    "min_instance_px": 30,          # drop specks after flooding
+    "confidence_threshold": 0.50,  # channel 0, mask
+    "core_threshold": 0.50,  # channel 1, seeds
+    "min_instance_px": 30,  # drop specks after flooding
 }
 
 
@@ -53,9 +53,7 @@ def preprocess(image_path: Any) -> Any:
     import rasterio
 
     with rasterio.open(image_path) as src:
-        rgb = src.read(
-            [1, 2, 3], out_shape=(3, MODEL_INPUT_SIZE, MODEL_INPUT_SIZE)
-        ).astype(np.float32) / 255.0
+        rgb = src.read([1, 2, 3], out_shape=(3, MODEL_INPUT_SIZE, MODEL_INPUT_SIZE)).astype(np.float32) / 255.0
     mean = np.asarray(NORM_MEAN, dtype=np.float32).reshape(3, 1, 1)
     std = np.asarray(NORM_STD, dtype=np.float32).reshape(3, 1, 1)
     return ((rgb - mean) / std)[np.newaxis, ...].astype(np.float32)
@@ -106,9 +104,7 @@ def postprocess_instances(
     if markers.max() == 0:
         return np.zeros(mask.shape, np.int32)
 
-    labels = watershed(
-        -ndimage.distance_transform_edt(mask), markers=markers, mask=mask
-    )
+    labels = watershed(-ndimage.distance_transform_edt(mask), markers=markers, mask=mask)
     counts = np.bincount(labels.ravel())
     drop = np.flatnonzero(counts < min_instance_px)
     return np.where(np.isin(labels, drop[drop > 0]), 0, labels).astype(np.int32)
@@ -129,8 +125,7 @@ def predict(session: Any, input_images: str, params: dict[str, Any]) -> dict[str
     input_name = session.get_inputs()[0].name
 
     results: dict[str, Any] = {}
-    for chip in sorted(p for p in root.rglob("*") if p.suffix.lower() in
-                       {".tif", ".tiff", ".png", ".jpg", ".jpeg"}):
+    for chip in sorted(p for p in root.rglob("*") if p.suffix.lower() in {".tif", ".tiff", ".png", ".jpg", ".jpeg"}):
         logits = session.run(None, {input_name: preprocess(chip)})[0]
         labels = postprocess_instances(
             logits,
@@ -171,8 +166,11 @@ def export_onnx(checkpoint_path: str, output_path: str) -> str:
     dummy = torch.zeros(1, 3, MODEL_INPUT_SIZE, MODEL_INPUT_SIZE)
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
     torch.onnx.export(
-        model, dummy, output_path,
-        input_names=["input"], output_names=["logits"],
+        model,
+        dummy,
+        output_path,
+        input_names=["input"],
+        output_names=["logits"],
         dynamic_axes={"input": {0: "batch"}, "logits": {0: "batch"}},
         opset_version=17,
     )

@@ -77,9 +77,12 @@ def mock_instrumentation():
             importlib.import_module(module_name)
         except ImportError:
             continue
-        patches.append(patch(f"{module_name}.log_metadata"))
-        patches.append(patch(f"{module_name}.mlflow_training_context", _noop_context))
-        patches.append(patch(f"{module_name}.log_evaluation_results"))
+        # create=True: a model may ship inference only, with training performed
+        # outside this repository. Such a pipeline never imports the ZenML
+        # instrumentation, and patching a name it does not define would fail.
+        patches.append(patch(f"{module_name}.log_metadata", create=True))
+        patches.append(patch(f"{module_name}.mlflow_training_context", _noop_context, create=True))
+        patches.append(patch(f"{module_name}.log_evaluation_results", create=True))
 
     with contextlib.ExitStack() as stack:
         for p in patches:
