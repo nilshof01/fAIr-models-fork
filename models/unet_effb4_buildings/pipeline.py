@@ -165,13 +165,17 @@ def export_onnx(checkpoint_path: str, output_path: str) -> str:
 
     dummy = torch.zeros(1, 3, MODEL_INPUT_SIZE, MODEL_INPUT_SIZE)
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
+    # Name every axis. Declaring only axis 0 lets ONNX infer the spatial dims as
+    # dynamic and reuse the "batch" symbol for height, so the exported signature
+    # reads [batch, 3, batch, ...] and a consumer reading it is misled.
+    axes = {0: "batch", 1: "channel", 2: "height", 3: "width"}
     torch.onnx.export(
         model,
         dummy,
         output_path,
         input_names=["input"],
         output_names=["logits"],
-        dynamic_axes={"input": {0: "batch"}, "logits": {0: "batch"}},
+        dynamic_axes={"input": dict(axes), "logits": dict(axes)},
         opset_version=17,
     )
     return output_path
