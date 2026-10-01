@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "unet-effb4-buildings",
+  "properties": {
+    "description": "U-Net with an ImageNet-pretrained EfficientNet-B4 encoder for building INSTANCE segmentation from very high resolution RGB aerial imagery. Emits three channels - mask, per-instance normalised distance transform, and instance boundary - which are resolved into separate building footprints by marker-controlled watershed. Trained on 18,557 chips filtered from hotosm/vhr-building-segmentation by a label-quality classifier, after manual review established that 27.2% of that dataset's labels are unusable (n = 6,459 reviewed).",
+    "mlm:name": "unet-effb4-buildings",
+    "mlm:architecture": "UNet + EfficientNet-B4",
+    "mlm:tasks": ["instance-segmentation"],
+    "mlm:framework": "PyTorch",
+    "mlm:framework_version": "2.7.1",
+    "mlm:pretrained": true,
+    "mlm:pretrained_source": "ImageNet",
+    "mlm:total_parameters": 20230000,
+    "mlm:input": [
+      {
+        "name": "rgb_chip",
+        "bands": ["red", "green", "blue"],
+        "input": { "shape": [-1, 3, 256, 256], "dim_order": ["batch", "channel", "height", "width"] },
+        "norm_by_channel": true,
+        "norm_type": "z-score",
+        "statistics": [
+          { "mean": 0.485, "stddev": 0.229 },
+          { "mean": 0.456, "stddev": 0.224 },
+          { "mean": 0.406, "stddev": 0.225 }
+        ]
+      }
+    ],
+    "mlm:output": [
+      {
+        "name": "logits",
+        "tasks": ["instance-segmentation"],
+        "result": { "shape": [-1, 3, 256, 256], "dim_order": ["batch", "channel", "height", "width"] },
+        "classification:classes": [
+          { "value": 0, "name": "mask", "description": "building / not building" },
+          { "value": 1, "name": "distance", "description": "per-instance normalised distance transform; seeds the watershed" },
+          { "value": 2, "name": "boundary", "description": "band at walls shared by two instances" }
+        ],
+        "post_processing_function": "pipeline:postprocess_instances"
+      }
+    ]
+  },
+  "assets": {},
+  "links": []
+}

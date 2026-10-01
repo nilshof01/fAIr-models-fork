@@ -1,0 +1,6 @@
+*
+!models/dinov3s_buildings/
+!models/conftest.py
+!models/test_integration.py
+models/dinov3s_buildings/artifacts/
+models/dinov3s_buildings/__pycache__/
